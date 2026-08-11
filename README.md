@@ -188,6 +188,7 @@
 
 
 
+
 <div align="center">
   <h1>🎮 Mia & Kourosh Gaming Empire</h1>
   <p>An interactive, cinematic single-page landing site showcasing Mia and Kourosh’s gaming universe — hero, gallery, video trailer, fan messages, FAQ, and social links. Built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.</p>
