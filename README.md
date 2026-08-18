@@ -73,7 +73,7 @@ This project demonstrates **modern frontend design, interactive SPA behavior, an
 ## 👨‍💻 Author
 
 **Developed by:** [HamiParsa](https://github.com/HamiParsa)  
-💬 Front-End Developer | Building interactive, cinematic landing pages
+💬 Full-Stack Developer | Building interactive, cinematic landing pages
 
 ---
 
